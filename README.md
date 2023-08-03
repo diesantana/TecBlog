@@ -1,3 +1,5 @@
 # TecBlog
  Projeto desenvolvido no curso de Desenvolvimento Web do Professor Jamilton Damasceno
- Eu fiz algumas alterações no projeto original, implementanto a responsividade com o grid, flexbox, menu mobile com javascript e um footer super elegante e responsivo. 
+ 
+Nesse projeto eu aprendi a criar um site responsivo com grid layout, flexbox e um menu mobile com javascript. 
+Nesse projeto eu tomei a liberdade te fazer algumas alterações, como a responsividade, que não tinha no projeto original, e o footer super elegante e responsivo 
