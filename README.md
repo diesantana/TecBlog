@@ -2,7 +2,7 @@
 
 <p>Veja o projeto rodando no Github pages:</p>
 
-- <a href="https://diesantana.github.io/TecBlog/" target="_blank">TecBlog</a>
+- <a href="https://diesantana.github.io/TecBlog/">TecBlog</a>
 
 
 
