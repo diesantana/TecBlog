@@ -1,5 +1,4 @@
-
-<h1 align="center">TecBlog - O seu blog de tecnologia</h1>
+# <h1 align="center">TecBlog - O seu blog de tecnologia</h1>
 
 <p>Veja o projeto rodando no Github pages:</p>
 
